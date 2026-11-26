@@ -8,8 +8,9 @@ formulas, grouping, filters, live updates, millions of rows. One class for AppKi
 and UIKit, with an API that mirrors `NSTableView`. A Swift package, free up to
 10,000 rows a table.
 
+[Website](https://digitalglobeby.github.io/Gingham/) ·
 [Repository](https://github.com/digitalglobeby/Gingham) ·
-[Documentation](https://digitalglobeby.github.io/Gingham/documentation/gingham)
+[Documentation](https://digitalglobeby.github.io/Gingham/docs/documentation/gingham)
 
 ### Granule for ClickHouse
 
