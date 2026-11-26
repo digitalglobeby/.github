@@ -13,7 +13,7 @@ and UIKit, with an API that mirrors `NSTableView`. A Swift package, free up to
 
 ### Granule for ClickHouse
 
-A free ClickHouse client for the iPhone and iPad, built on Gingham.
+A free ClickHouse client for the Mac, iPad and iPhone, built on Gingham.
 
 [App Store](https://apps.apple.com/us/app/granule-for-clickhouse/id6832011031) ·
 [Source](https://github.com/d-polikhranidi/Granule)
